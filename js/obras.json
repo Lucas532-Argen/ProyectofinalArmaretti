@@ -1,0 +1,162 @@
+[
+    {
+        "id": "DaVinci",
+        "titulo": "DaVinci",
+        "imagen": "img/davinci/img.1.jpg",
+        "categoria": {
+            "nombre": "Cuadros Leonardo Da Vinci",
+            "id": "leonardo"
+        },
+        "precio": 15000000
+    },
+    {
+        "id": "La Gioconda",
+        "titulo": "La Gioconda",
+        "imagen": "img/davinci/img.2.jpg",
+        "categoria": {
+            "nombre": "Cuadros Leonardo Da Vinci",
+            "id": "leonardo"
+        },
+        "precio": 60000000
+    },
+    {
+        "id": "Salvator Mundi",
+        "titulo": "Salvator Mundi",
+        "imagen": "img/davinci/img.3.jpg",
+        "categoria": {
+            "nombre": "Cuadros Leonardo Da Vinci",
+            "id": "leonardo"
+        },
+        "precio": 23000000
+    },
+    {
+        "id": "La Virgen De Las Rocas + El hombre de Vitruvio",
+        "titulo": "La Virgen De Las Rocas + El hombre de Vitruvio",
+        "imagen": "img/davinci/img.10.jpg",
+        "categoria": {
+            "nombre": "Cuadros Leonardo Da Vinci",
+            "id": "leonardo"
+        },
+        "precio": 100000000
+    },
+    {
+        "id": "A Ultima Ceia",
+        "titulo": "A Ultima Ceia",
+        "imagen": "img/davinci/img.11.jpg",
+        "categoria": {
+            "nombre": "Cuadros Leonardo Da Vinci",
+            "id": "leonardo"
+        },
+        "precio": 10000000
+    },
+    {
+        "id": "Diego Velázquez",
+        "titulo": "Diego Velázquez",
+        "imagen": "img/diegovelazquez/img.4.jpg",
+        "categoria": {
+            "nombre": "Cuadros Diego Velázquez",
+            "id": "diego"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "El bufón don Sebastián de Morra",
+        "titulo": "El bufón don Sebastián de Morra",
+        "imagen": "img/diegovelazquez/img.5.jpg",
+        "categoria": {
+            "nombre": "Cuadros Diego Velázquez",
+            "id": "diego"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "Diego Velázquez",
+        "titulo": "Diego Velázquez",
+        "imagen": "img/diegovelazquez/img.6.jpg",
+        "categoria": {
+            "nombre": "Cuadros Diego Velázquez",
+            "id": "diego"
+        },
+        "precio": 50000
+    },
+    {
+        "id": "El bufón don Sebastián de Morra",
+        "titulo": "El bufón don Sebastián de Morra",
+        "imagen": "img/diegovelazquez/img.12.jpg",
+        "categoria": {
+            "nombre": "Cuadros Diego Velázquez",
+            "id": "diego"
+        },
+        "precio": 70000
+    },
+    {
+        "id": "La rendición de Breda",
+        "titulo": "La rendición de Breda",
+        "imagen": "img/diegovelazquez/img.13.jpg",
+        "categoria": {
+            "nombre": "Cuadros Diego Velázquez",
+            "id": "diego"
+        },
+        "precio": 45000
+    },
+    {
+        "id": "Venus del espejo",
+        "titulo": "Venus del espejo",
+        "imagen": "img/diegovelazquez/img.14.jpg",
+        "categoria": {
+            "nombre": "Cuadros Diego Velázquez",
+            "id": "diego"
+        },
+        "precio": 73900
+    },
+    {
+        "id": "Inocencio X",
+        "titulo": "Inocencio X",
+        "imagen": "img/diegovelazquez/img.15.jpg",
+        "categoria": {
+            "nombre": "Cuadros Diego Velázquez",
+            "id": "diego"
+        },
+        "precio": 100000
+    },
+    {
+        "id": "Breakfast",
+        "titulo": "Breakfast",
+        "imagen": "img/diegovelazquez/img.16.jpg",
+        "categoria": {
+            "nombre": "Cuadros Diego Velázquez",
+            "id": "diego"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "La Creacion",
+        "titulo": "La Creacion",
+        "imagen": "img/miguelangel/img.7.jpg",
+        "categoria": {
+            "nombre": "Cuadros Michelangelo",
+            "id": "Miguel"
+        },
+        "precio": 456000
+    },
+    {
+        "id": "La Resurreccion",
+        "titulo": "La Resurreccion",
+        "imagen": "img/miguelangel/img.8.jpg",
+        "categoria": {
+            "nombre": "Estatua Michelangelo",
+            "id": "Miguel"
+        },
+        "precio": 500000
+    },
+    {
+        "id": "Poseidon",
+        "titulo": "Poseidon",
+        "imagen": "img/miguelangel/img.9.jpg",
+        "categoria": {
+            "nombre": "Estatua Michelangelo",
+            "id": "Miguel"
+        },
+        "precio": 300000
+    }
+]
